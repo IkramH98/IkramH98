@@ -40,4 +40,16 @@ Connect with me:
 - 💬 I enjoy building cool UIs.
 
 ### Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=IkramH98&theme=radical)
+
+![Ikram GitHub-graph](https://activity-graph.herokuapp.com/graph?username=IkramH98&theme=react-dark&hide_border=true&area=true)
+
+
+<div align="center">
+<!-- <a href="https://github.com/IkramH98">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=IkramH98&show_icons=true&theme=dark&line_height=27&title_color=2EDDD5&bg_color=000000&hide_border=1" alt="Ikram github-stats"/>
+</a> -->
+
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=IkramH98&theme=great-gatsby&hide_border=true&sideNums=2EDDD5&background=000000&ring=1CC6DD&border=DD2727&currStreakNum=2ACBDD)
+ 
+</div>
