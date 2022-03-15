@@ -41,4 +41,4 @@ Connect with me:
 - 💬 I enjoy building cool UIs.
 
 ### Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=IkramH98 &theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=IkramH98&theme=radical)
