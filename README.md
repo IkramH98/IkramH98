@@ -47,7 +47,7 @@ Connect with me:
 
 ![Ikram GitHub-graph](https://activity-graph.herokuapp.com/graph?username=IkramH98&theme=react-dark&hide_border=true&area=true)
 ![Ikram Github-stat](https://github-readme-stats.vercel.app/api?username=IkramH98&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117)
-![Ikram Top-Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IkramH98&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117)
+<!-- ![Ikram Top-Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IkramH98&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117) -->
  
 
 <div align="center">
