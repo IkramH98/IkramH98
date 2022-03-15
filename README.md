@@ -1,5 +1,6 @@
-### Hi there 👋 I'm Ikram !
+<a href="#"><img width="100%" height="auto" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/1a51a6de-f960-4f82-b743-c1a61ea08a79/dbesgmc-15a0852a-dd64-461b-8613-33f4613f4d90.png/v1/fill/w_1024,h_576,q_80,strp/programming_wallpaper_by_affanindo_dbesgmc-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NTc2IiwicGF0aCI6IlwvZlwvMWE1MWE2ZGUtZjk2MC00ZjgyLWI3NDMtYzFhNjFlYTA4YTc5XC9kYmVzZ21jLTE1YTA4NTJhLWRkNjQtNDYxYi04NjEzLTMzZjQ2MTNmNGQ5MC5wbmciLCJ3aWR0aCI6Ijw9MTAyNCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.gwWVGub2H-UkJum8Gs4nAG_BcOSOjWvj21ORAsFbeiw" height="20px"/></a>
 
+<h1 align="center">Hey there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Ikram !</h1>
 
 ### Full-stack web developer
 
@@ -36,13 +37,18 @@ Connect with me:
 
 ### More
 
-- 🌱 I find contentment building my knowledge and learning something new in the world of tech.
+- 🌱 I find contentment in gaining knowledge and learning new things in the tech sphere.
 - 💬 I enjoy building cool UIs.
+- 👯 I’m looking to collaborate on **OpenSource Projects**
+- 💻 All of my projects are available in my Portfolio (under construction)
+- ⚡ Fun fact **I'm a Korean drama fanatic and find tranquility at the GYM.**
 
 ### Stats
 
 ![Ikram GitHub-graph](https://activity-graph.herokuapp.com/graph?username=IkramH98&theme=react-dark&hide_border=true&area=true)
-
+![Ikram Github-stat](https://github-readme-stats.vercel.app/api?username=IkramH98&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117)
+![Ikram Top-Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IkramH98&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117)
+ 
 
 <div align="center">
 <!-- <a href="https://github.com/IkramH98">
@@ -51,5 +57,5 @@ Connect with me:
 
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=IkramH98&theme=great-gatsby&hide_border=true&sideNums=2EDDD5&background=000000&ring=1CC6DD&border=DD2727&currStreakNum=2ACBDD)
- 
+  
 </div>
