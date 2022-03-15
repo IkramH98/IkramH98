@@ -8,7 +8,6 @@ Dedicated Full-Stack Developer seeking a full-time role to kickstart a career in
 
 Connect with me:
 
-<br>
 <a href="https://www.linkedin.com/in/ikram-hassan-aa5287bb">
   <img align="left" alt="Ikram Hassan LinkedIn" src="https://img.shields.io/static/v1?style=for-the-badge&message=LinkedIn&color=0A66C2&logo=LinkedIn&logoColor=FFFFFF&label=" />
 </a>
