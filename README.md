@@ -42,7 +42,6 @@ Connect with me:
 
 - 🌱 I find contentment in gaining knowledge and learning new things in the tech sphere.
 - 💬 I enjoy building cool UIs.
-- 👯 I’m looking to collaborate on **OpenSource Projects**
 - 💻 All of my projects are available in my Portfolio (under construction)
 - ⚡ Fun fact **I'm a Korean drama fanatic and find tranquility at the GYM.**
 
