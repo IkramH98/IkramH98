@@ -30,6 +30,9 @@ Connect with me:
 ![Cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e)
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)  
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) 
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 
 #### Learning..
@@ -46,14 +49,13 @@ Connect with me:
 ### Stats
 
 ![Ikram GitHub-graph](https://activity-graph.herokuapp.com/graph?username=IkramH98&theme=react-dark&hide_border=true&area=true)
-![Ikram Github-stat](https://github-readme-stats.vercel.app/api?username=IkramH98&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117)
 <!-- ![Ikram Top-Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IkramH98&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117) -->
  
 
 <div align="center">
-<!-- <a href="https://github.com/IkramH98">
+<a href="https://github.com/IkramH98">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=IkramH98&show_icons=true&theme=dark&line_height=27&title_color=2EDDD5&bg_color=000000&hide_border=1" alt="Ikram github-stats"/>
-</a> -->
+</a>
 
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=IkramH98&theme=great-gatsby&hide_border=true&sideNums=2EDDD5&background=000000&ring=1CC6DD&border=DD2727&currStreakNum=2ACBDD)
