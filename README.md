@@ -4,7 +4,7 @@
 
 ### Full-stack web developer
 
-Dedicated Full-Stack Developer seeking a full-time role to kickstart a career in tech. I enjoy learning new skills, obtain a problem-solving mindset, work well collaboratively and adapt well in various environemnts.
+Dedicated Full-Stack Developer seeking a full-time role to kickstart a career in tech. I enjoy learning new skills, obtain a problem-solving mindset, work well collaboratively and adapt well in various environments.
 
 
 Connect with me:
