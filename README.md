@@ -43,12 +43,10 @@ Connect with me:
 - 🌱 I find contentment in gaining knowledge and learning new things in the tech sphere.
 - 💬 I enjoy building cool UIs.
 - 💻 All of my projects are available in my Portfolio (under construction)
-- ⚡ Fun fact **I love to travel and find tranquility at the GYM.**
+- ⚡ Fun fact **I love to travel.**
 
 ### Stats
-
-![Ikram GitHub-graph](https://activity-graph.herokuapp.com/graph?username=IkramH98&theme=react-dark&hide_border=true&area=true)
-<!-- ![Ikram Top-Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IkramH98&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117) -->
+![Ikram Top-Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IkramH98&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117) 
  
 
 <div align="center">
