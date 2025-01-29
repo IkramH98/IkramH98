@@ -4,7 +4,7 @@
 
 ### Full-stack web developer
 
-Dedicated Full-Stack Developer seeking a full-time role to kickstart a career in tech. I enjoy learning new skills, obtain a problem-solving mindset, work well collaboratively and adapt well in various environments.
+Results-driven Junior Cloud Consultant with a unique blend of cloud architecture, DevOps practices, and full-stack development expertise. Currently advancing cloud transformation initiatives at Sopra Steria while holding AWS Cloud Practitioner and Microsoft Azure certifications. Combines strong technical capabilities in AWS and Azure with proven experience in agile methodologies and ITIL practices. Demonstrated success in transitioning from software development to cloud consulting, bringing valuable cross-functional perspective to cloud migration and optimisation projects. Passionate about leveraging cloud technologies to drive business transformation and committed to delivering scalable, cost-effective solutions. Seeking opportunities to contribute to innovative cloud projects while continuing professional growth in cloud architecture and consulting.
 
 
 Connect with me:
